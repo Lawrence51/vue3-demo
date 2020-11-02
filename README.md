@@ -1,24 +1,8 @@
-# vue3-demo1
+# vue3-demo
 
-## Project setup
-```
-npm install
-```
+## vue-cli@4.5.0 +
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+## vue 3.0+
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
